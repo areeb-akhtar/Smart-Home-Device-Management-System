@@ -197,4 +197,5 @@ This demonstrates proper separation of concerns and reuse of object oriented des
 This project demonstrates a structured and extensible approach to modeling smart devices using Java object oriented programming principles. The system cleanly separates concerns, enforces contracts through interfaces, and uses polymorphism to manage diverse device behavior through a common abstraction.
 
 The design choices made in this lab ensure that the system can scale naturally into more complex interfaces and interaction models.
-# Smart-Home-Device-Management-System
+
+
